@@ -1,2 +1,6 @@
 01_helloWorld       DONE
-02_addNumber        Ongoing
+02_addNumber        DONE
+03_numberChecker    DONE
+04_mathEquations    DONE
+05_joinString       DONE
+06_repeatSting      
