@@ -3,4 +3,4 @@
 03_numberChecker    DONE
 04_mathEquations    DONE
 05_joinString       DONE
-06_repeatSting      
+06_repeatSting      DONE
