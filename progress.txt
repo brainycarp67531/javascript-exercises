@@ -4,3 +4,11 @@
 04_mathEquations    DONE
 05_joinString       DONE
 06_repeatSting      DONE
+07_reverseString    DONE
+
+
+
+// how to run test
+npm test NAMEOFTEST.spec.js
+
+
