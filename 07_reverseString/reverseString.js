@@ -1,4 +1,4 @@
-const reverseString = function(str) {
+const reverseString1 = function(str) {
 
     // create an array named strArray for holding the string that should be reversed
     let strArray = [];
@@ -24,6 +24,27 @@ const reverseString = function(str) {
     return reverseString;
 
 };
+
+
+const reverseString2 = function(str) {
+    const reversedArray = [];
+    for (let i = str.length - 1; i >= 0; i--) {
+        reversedArray.push(str[i]);
+    }
+    return reversedArray.join('');
+};
+
+
+const reversedString = function(str) {
+    return str  
+        .split("")
+        .reverse()
+        .join("");
+};
+
+
+const reverseString3 = str => str.split('').reverse().join('');
+
 
 // Do not edit below this line
 module.exports = reverseString;
