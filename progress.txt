@@ -5,7 +5,7 @@
 05_joinString       DONE
 06_repeatSting      DONE
 07_reverseString    DONE
-08_removeFromArray  Started
+08_removeFromArray  DONE
 
 
 
