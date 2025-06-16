@@ -6,6 +6,7 @@
 06_repeatSting      DONE
 07_reverseString    DONE
 08_removeFromArray  DONE
+09_sumAll           DONE
 
 
 
