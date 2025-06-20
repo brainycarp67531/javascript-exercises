@@ -7,8 +7,8 @@
 07_reverseString    DONE
 08_removeFromArray  DONE
 09_sumAll           DONE
-10_leapYers         Started
-11_tempConversion   Started
+10_leapYers         DONE
+11_tempConversion   DONE
 
 
 
