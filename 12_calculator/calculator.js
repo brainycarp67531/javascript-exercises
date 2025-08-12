@@ -13,7 +13,7 @@ const sum = function(array) {
 
 const multiply = function(array) {
   return array.reduce((accumulator, currentValue) =>
-  accumulator = accumulator * currentValue, 0);
+  accumulator = accumulator * currentValue, 1);
 };
 
 const power = function(x, y) {
@@ -21,7 +21,15 @@ const power = function(x, y) {
 };
 
 const factorial = function(x) {
-  return Math.factorial(x);
+  if (x < 0) {
+    return -1;
+  }
+  else if (x == 0) {
+    return 1;
+  } 
+  else {
+    return (x * factorial(x - 1));
+  };
 };
 
 // Do not edit below this line
