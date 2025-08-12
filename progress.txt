@@ -9,7 +9,8 @@
 09_sumAll           DONE
 10_leapYers         DONE
 11_tempConversion   DONE
-12_calculator       Ongoing
+12_calculator       DONE
+13_palindromes      DONE
 
 
 // how to run test
