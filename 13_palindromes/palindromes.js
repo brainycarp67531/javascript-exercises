@@ -36,5 +36,23 @@ const palindromes = function (str) {
 };
 
 
+const palindromes2 = function (string) {
+  if (typeof string !== 'string') return false;
+
+  const cleanedString = string
+    .toLowerCase()
+    .replace(/[^a-z0-9]/g, '');
+
+  const reversedString = cleanedString
+    .split('')
+    .reverse()
+    .join('');
+
+  return cleanedString === reversedString;
+};
+
+
+
 // Do not edit below this line
 module.exports = palindromes;
+module.exports = palindromes2;
