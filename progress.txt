@@ -11,7 +11,8 @@
 11_tempConversion   DONE
 12_calculator       DONE
 13_palindromes      DONE
-14_fibonacci
+14_fibonacci        DONE
+15_getTheTitle      DONE
 
 
 // how to run test
